@@ -30,9 +30,9 @@ passport.use(passportStrategy)
 // app.use(morgan('combined'));
 app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({
-  extended: true
+  extended: true, limit: '10mb'
 }));
-app.use(bodyParser.json());
+app.use(bodyParser.json( {limit: '10mb'} ));
 app.use(cors());
 
 app.use('/api/auth', authRoutes)

@@ -60,7 +60,7 @@ module.exports = {
   recaptcha: {
     // hideBadge: false, 
     language: 'ru',
-    siteKey: 'process.env.SITE_KEY',   
+    siteKey: process.env.SITE_KEY,   
     version: 2, 
   },
   /*
