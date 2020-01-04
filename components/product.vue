@@ -51,9 +51,6 @@
 			return {
 				
 			}
-		},
-		computed: {
-			
 		}
 	}
 </script>
