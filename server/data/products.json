@@ -1,0 +1,23 @@
+{
+	"products": [
+		{
+			"img":"JXD-512W-90.png",
+			"title":"JXD 512W 90",
+			"price":"$ 299",
+			"newProduct":false
+		},
+		{
+			"img":"DJI-Phantom-4-Pro+.png",
+			"title":"DJI Phantom 4 Pro+",
+			"price":"$ 399",
+			"newProduct":true
+		},
+		{
+			"img":"Skytech-M62-2.4-Ghz.png",
+			"title":"Skytech M62 2.4 Ghz",
+			"price":"$ 599",
+			"newProduct":false
+		}
+	]
+
+}
