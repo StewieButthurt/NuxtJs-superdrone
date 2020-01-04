@@ -1,4 +1,4 @@
-Некоммерческий проект [superdrone](https://superdrone-stewiebutthurt.herokuapp.com/)
+Некоммерческий проект [superdrone](https://nuxtjs-superdrone.herokuapp.com/)
 
 Проект развернут на бесплатном хостинге [heroku](https://www.heroku.com/)  
 
@@ -95,6 +95,8 @@
 
 **Create**
 - Подстраница с формой для создания нового товара
+
+![](assets/create.gif)
 
 **Goods**
 - Подстраница со списком товаров, которые можно редактировать
